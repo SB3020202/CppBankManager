@@ -25,3 +25,15 @@
 |   18   | Create a Command-Line Interface (CLI) to perform operations (login, bank actions, queries, etc.).      |     🔲     |
 |   19   | Validate user input and ensure data integrity.                                                         |     🔲     |
 |   20   | Allow exporting reports to `.csv` using `fstream`.                                                     |     🔲     |
+
+
+
+
+Semana 1: Requisitos + classes + contas simples.
+
+Semana 2: Transações + gestão de dados + I/O.
+
+Semana 3: Algoritmos + estruturas implementadas.
+
+Semana 4: Testes, melhorias e documentação.
+
